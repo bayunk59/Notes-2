@@ -12,6 +12,9 @@ Yang perlu di instal
 # postgres
 //npm install pg
 
+# noge postgres migrate
+//npm install node-pg-migrate
+
 # dotenv
 //npm install dotenv
 
