@@ -20,3 +20,10 @@ Yang perlu di instal
 
 # bcrypt
 //npm install bcrypt
+
+# Cara akses tabel
+psql --username postgres
+\c <nama tabel>
+  
+# Truncate tabel
+TRUNCATE TABLE <nama tabel>
